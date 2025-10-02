@@ -1,0 +1,15 @@
+# Archivos y carpetas de Gradle
+.gradle/
+build/
+
+# Configuraciones de IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Archivos de sistema
+*.class
+.DS_Store
+Thumbs.db
