@@ -5,7 +5,6 @@ An Agent (Interface Observable) notifies multiple StockAgency instances (Interfa
 
 --- 
 
-
 💻 **Technologies Used**
 
 -Java 11(minimum): Programming language used for the project implementation.
@@ -16,6 +15,8 @@ An Agent (Interface Observable) notifies multiple StockAgency instances (Interfa
 
 -IntelliJ IDEA: Integrated Development Environment (IDE) used for project development.
 
+---
+
 📋 **Requirements**
 
 To run this project, ensure the following are installed:
@@ -23,6 +24,8 @@ To run this project, ensure the following are installed:
 -Java Development Kit (JDK) 11 or higher: Download JDK 11
 
 -Gradle 7.0 or higher: Install Gradle
+
+---
 
 🛠️ **Installation**
 
@@ -55,6 +58,7 @@ To run the project and see the Builder pattern in action:
    ```bash
    gradle run
 
+---
 
 🌐 **Deployment**
 
@@ -62,7 +66,9 @@ To run the project and see the Builder pattern in action:
 
 -Dockerization: Create a Docker image for consistent execution across environments.
 
--Web Service Integration: Develop a RESTful API for interacting with the pizza order system.
+-Web Service Integration: Develop a RESTful API for interacting with the stock market system.
+
+---
 
 🤝 **Contributions**
 
